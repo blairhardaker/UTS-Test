@@ -4,8 +4,8 @@ PRODID: -
 URL:
 NAME:UTS White SVL 2018
 X-WR-CALNAME:UTS White SVL 2018
-DESCRIPTION:Dates for the Sydney Volleyball League UTS Honours White squad.
-X-WR-CALDESC:Dates for the Sydney Volleyball League UTS Honours White squad.
+DESCRIPTION:SVL dates for the UTS Honours White squad.
+X-WR-CALDESC:SVL dates for the UTS Honours White squad.
 TIMEZONE-ID:Australia/Sydney
 X-WR-TIMEZONE:Australia/Sydney
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
