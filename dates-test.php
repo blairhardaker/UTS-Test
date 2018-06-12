@@ -7,14 +7,14 @@ $games = array(
       'summary' => 'Week 1 | UTS v ASIMS',
       'start' => '2018-05-27 13:45:00',
       'end' => '2018-05-27 15:15:00',
-      'description' => 'UTS defeated ASIMS 3-0.'
+      'description' => 'UTS defeated ASIMS 3-0'
     ),
     array(
       'uid' => 'Duty1',
       'summary' => 'Week 1 | Duty',
       'start' => '2018-05-27 15:15:00',
       'end' => '2018-05-27 17:00:00',
-      'description' => 'Duty for HC v USYD L.'
+      'description' => 'Duty for HC v USYD L'
     ),
     // Week 2 - Game
     array(
@@ -22,7 +22,7 @@ $games = array(
       'summary' => 'Week 2 | UTS v ILLA',
       'start' => '2018-06-03 10:20:00',
       'end' => '2018-06-03 12:00:00',
-      'description' => 'UTS defeated ILLA 3-0.'
+      'description' => 'UTS defeated ILLA 3-0'
     ),
     // Week 3 - Game + Duty
     array(
@@ -30,7 +30,7 @@ $games = array(
       'summary' => 'Week 3 | UTS v CITY',
       'start' => '2018-06-10 13:45:00',
       'end' => '2018-06-10 15:30:00',
-      'description' => 'CITY defeated UTS 3-2.'
+      'description' => 'CITY defeated UTS 3-2'
     ),
     array(
       'uid' => 'Duty3',
@@ -52,7 +52,7 @@ $games = array(
       'summary' => 'Week 4 | Duty',
       'start' => '2018-06-17 12:00:00',
       'end' => '2018-06-17 13:45:00',
-      'description' => 'Duty for UTS B v EAGLES.'
+      'description' => 'Duty for UTS B v EAGLES'
     ),
     // Bye
     array(
@@ -90,8 +90,8 @@ URL:<br>
 PRODID:-//Blair Hardaker<br>
 NAME:UTS White SVL 2018<br>
 X-WR-CALNAME:UTS White SVL 2018<br>
-DESCRIPTION:SVL dates for the UTS Honours White squad.<br>
-X-WR-CALDESC:SVL dates for the UTS Honours White squad.<br>
+DESCRIPTION:SVL dates for the UTS Honours White squad<br>
+X-WR-CALDESC:SVL dates for the UTS Honours White squad<br>
 TIMEZONE-ID:Australia/Sydney<br>
 X-WR-TIMEZONE:Australia/Sydney<br>
 REFRESH-INTERVAL;VALUE=DURATION:PT15M<br>
