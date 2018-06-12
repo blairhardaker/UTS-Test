@@ -88,8 +88,8 @@ BEGIN:VCALENDAR<br>
 VERSION:2.0<br>
 URL:<br>
 PRODID:-//Blair Hardaker<br>
-NAME:UTS White SVL 2018<br>
-X-WR-CALNAME:UTS White SVL 2018<br>
+NAME:UTS W SVL 2018<br>
+X-WR-CALNAME:UTS W SVL 2018<br>
 DESCRIPTION:SVL dates for the UTS Honours White squad<br>
 X-WR-CALDESC:SVL dates for the UTS Honours White squad<br>
 TIMEZONE-ID:Australia/Sydney<br>
