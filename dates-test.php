@@ -102,7 +102,8 @@ METHOD:PUBLISH<br>
 foreach ($games as $game) {
     echo "BEGIN:VEVENT<br>";
     echo "UID:" . $game['uid'] . "<br>";
-    echo "DTSTAMP:" . date('Ymd\THis', strtotime($game['start'])) . "<br>";
+    echo "DTSTAMP:" . date('Ymd\THis', strtotime(date('Y-m-d'))) . "<br>";
+    echo "DTSTART:" . date('Ymd\THis', strtotime($game['start'])) . "<br>";
     echo "DTEND:" . date('Ymd\THis', strtotime($game['end'])) . "<br>";
     echo "SUMMARY:" . $game['summary'] . "<br>";
     echo "DESCRIPTION:" . $game['description'] . "<br>";
