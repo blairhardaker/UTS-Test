@@ -58,8 +58,8 @@ $games = array(
     array(
       'uid' => 'Bye1',
       'summary' => 'Bye Week',
-      'start' => '2018-06-25 08:50:00',
-      'end' => '2018-06-25 15:30:00',
+      'start' => '2018-06-24 08:50:00',
+      'end' => '2018-06-24 15:30:00',
       'description' => ''
     ),
     // Week 5
