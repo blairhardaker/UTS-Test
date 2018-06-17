@@ -4,83 +4,132 @@ $games = array(
   // Week 1 - Game + Duty
     array(
       'uid' => 'Game1',
-      'summary' => 'Week 1 | UTS v ASIMS',
+      'summary' => 'SVL • UTS v ASIMS',
       'start' => '2018-05-27 13:45:00',
-      'end' => '2018-05-27 15:15:00',
+      //'end' => '2018-05-27 15:15:00',
       'description' => 'UTS defeated ASIMS 3-0'
     ),
     array(
       'uid' => 'Duty1',
-      'summary' => 'Week 1 | Duty',
+      'summary' => 'SVL • Duty',
       'start' => '2018-05-27 15:15:00',
-      'end' => '2018-05-27 17:00:00',
+      //'end' => '2018-05-27 17:00:00',
       'description' => 'Duty for HC v USYD L'
     ),
     // Week 2 - Game
     array(
       'uid' => 'Game2',
-      'summary' => 'Week 2 | UTS v ILLA',
+      'summary' => 'SVL • UTS v ILLA',
       'start' => '2018-06-03 10:20:00',
-      'end' => '2018-06-03 12:00:00',
+      //'end' => '2018-06-03 12:00:00',
       'description' => 'UTS defeated ILLA 3-0'
     ),
     // Week 3 - Game + Duty
     array(
       'uid' => 'Game3',
-      'summary' => 'Week 3 | UTS v CITY',
+      'summary' => 'SVL • UTS v CITY',
       'start' => '2018-06-10 13:45:00',
-      'end' => '2018-06-10 15:30:00',
+      //'end' => '2018-06-10 15:30:00',
       'description' => 'CITY defeated UTS 3-2'
     ),
     array(
       'uid' => 'Duty3',
-      'summary' => 'Week 3 | Duty',
+      'summary' => 'SVL • Duty',
       'start' => '2018-06-10 12:00:00',
-      'end' => '2018-06-10 13:45:00',
-      'description' => 'Duty for'
+      //'end' => '2018-06-10 13:45:00',
+      'description' => 'Duty for Div 1 HC O v VOS'
     ),
     // Week 4 - Game + Duty
     array(
       'uid' => 'Game4',
-      'summary' => 'Week 4 | UTS v SNV',
+      'summary' => 'SVL • UTS v SNV',
       'start' => '2018-06-17 13:45:00',
-      'end' => '2018-06-17 15:30:00',
-      'description' => ''
+      //'end' => '2018-06-17 15:30:00',
+      'description' => 'UTS defeated SNV 3-2'
     ),
     array(
       'uid' => 'Duty4',
-      'summary' => 'Week 4 | Duty',
+      'summary' => 'SVL • Duty',
       'start' => '2018-06-17 12:00:00',
-      'end' => '2018-06-17 13:45:00',
-      'description' => 'Duty for UTS B v EAGLES'
+      //'end' => '2018-06-17 13:45:00',
+      'description' => 'Duty for Div 1 UTS B v EAGLES'
     ),
     // Bye
     array(
-      'uid' => 'Bye1',
-      'summary' => 'Bye Week',
+      'uid' => 'Bye',
+      'summary' => 'SVL • Bye',
       'start' => '2018-06-24 08:50:00',
-      'end' => '2018-06-24 15:30:00',
+      //'end' => '2018-06-24 15:30:00',
       'description' => ''
     ),
-    // Week 5
+    // Week 5 - Game
     array(
       'uid' => 'Game5',
-      'summary' => 'Week 5 | UTS v EAGLES',
+      'summary' => 'SVL • UTS v EAGLES',
       'start' => '2018-07-01 08:50:00',
-      'end' => '2018-07-01 10:20:00',
+      //'end' => '2018-07-01 10:20:00',
       'description' => ''
     ),
-    // Week 6
-
-    // Week 7
-
-    // Week 8
-
-    // Week 9
-
-    // Week 10
-
-    // Week 11
+    // Week 6 - Game + Duty
+    array(
+      'uid' => 'Game6',
+      'summary' => 'SVL • UTS v HC',
+      'start' => '2018-07-08 12:00:00',
+      'description' => ''
+    ),
+    array(
+      'uid' => 'Duty6',
+      'summary' => 'SVL • Duty',
+      'start' => '2018-07-08 13:45:00',
+      'description' => 'Duty for USYD B v SNV'
+    ),
+    // Week 7 - Bye
+    array(
+      'uid' => 'Bye7',
+      'summary' => 'SVL • Bye',
+      'start' => '2018-07-15 08:50:00',
+      'description' => ''
+    ),
+    // Week 8 - Game + Duty
+    array(
+      'uid' => 'Game8',
+      'summary' => 'SVL • UTS v UTS',
+      'start' => '2018-07-22 12:00:00',
+      'description' => ''
+    ),
+    array(
+      'uid' => 'Duty8',
+      'summary' => 'SVL • Duty',
+      'start' => '2018-07-22 12:00:00',
+      'description' => 'Duty for HC v CITY'
+    ),
+    // Week 9 - Game + Duty
+    array(
+      'uid' => 'Game9',
+      'summary' => 'SVL • UTS v USYD L',
+      'start' => '2018-07-29 13:45:00',
+      'description' => ''
+    ),
+    array(
+      'uid' => 'Duty9',
+      'summary' => 'SVL • Duty',
+      'start' => '2018-07-29 12:00:00',
+      'description' => 'Duty for Div 1 UTS B v UNSW'
+    ),
+    // Week 10 - Game
+    array(
+      'uid' => 'Game10',
+      'summary' => 'SVL • UTS v USYD B',
+      'start' => '2018-08-05 12:00:00',
+      'description' => ''
+    ),
+    // Week 11 - Game
+    array(
+      'uid' => 'Game11',
+      'summary' => 'SVL • UTS v END',
+      'start' => '2018-08-12 12:00:00',
+      'description' => ''
+    ),
 );
 
 echo "
@@ -104,7 +153,8 @@ foreach ($games as $game) {
     echo "UID:" . $game['uid'] . "<br>";
     echo "DTSTAMP:" . date('Ymd\THis', strtotime(date('Y-m-d'))) . "<br>";
     echo "DTSTART:" . date('Ymd\THis', strtotime($game['start'])) . "<br>";
-    echo "DTEND:" . date('Ymd\THis', strtotime($game['end'])) . "<br>";
+    //echo "DTEND:" . date('Ymd\THis', strtotime($game['end'])) . "<br>";
+    echo "DURATION:" . "P1H30M<br>";
     echo "SUMMARY:" . $game['summary'] . "<br>";
     echo "DESCRIPTION:" . $game['description'] . "<br>";
     echo "END:VEVENT<br>";
