@@ -19,6 +19,7 @@ DURATION:P1H30M
 SUMMARY:SVL • UTS v ASIMS
 LOCATION:Genea Netball Centre
 DESCRIPTION:UTS defeated ASIMS 3-0
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Duty1
@@ -28,6 +29,7 @@ DURATION:P1H30M
 SUMMARY:SVL • Duty
 LOCATION:Genea Netball Centre
 DESCRIPTION:Duty for HC v USYD L
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Game2
@@ -37,6 +39,7 @@ DURATION:P1H30M
 SUMMARY:SVL • UTS v ILLA
 LOCATION:Genea Netball Centre
 DESCRIPTION:UTS defeated ILLA 3-0
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Game3
@@ -46,6 +49,7 @@ DURATION:P1H30M
 SUMMARY:SVL • UTS v CITY
 LOCATION:Genea Netball Centre
 DESCRIPTION:CITY defeated UTS 3-2
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Duty3
@@ -55,6 +59,7 @@ DURATION:P1H30M
 SUMMARY:SVL • Duty
 LOCATION:Genea Netball Centre
 DESCRIPTION:Duty for Div 1 HC O v VOS
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Game4
@@ -64,6 +69,7 @@ DURATION:P1H30M
 SUMMARY:SVL • UTS v SNV
 LOCATION:Genea Netball Centre
 DESCRIPTION:UTS defeated SNV 3-2
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Duty4
@@ -73,6 +79,7 @@ DURATION:P1H30M
 SUMMARY:SVL • Duty
 LOCATION:Genea Netball Centre
 DESCRIPTION:Duty for Div 1 UTS B v EAGLES
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Bye
@@ -84,6 +91,7 @@ SUMMARY:SVL • Bye
 NOTICE Undefined index: location on line number 176
 LOCATION:
 DESCRIPTION:
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Game5
@@ -93,6 +101,7 @@ DURATION:P1H30M
 SUMMARY:SVL • UTS v EAGLES
 LOCATION:Genea Netball Centre
 DESCRIPTION:
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Game6
@@ -102,6 +111,7 @@ DURATION:P1H30M
 SUMMARY:SVL • UTS v HC
 LOCATION:Genea Netball Centre
 DESCRIPTION:
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Duty6
@@ -111,6 +121,7 @@ DURATION:P1H30M
 SUMMARY:SVL • Duty
 LOCATION:Genea Netball Centre
 DESCRIPTION:Duty for USYD B v SNV
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Bye7
@@ -120,6 +131,7 @@ DURATION:P1H30M
 SUMMARY:SVL • Bye
 LOCATION:Genea Netball Centre
 DESCRIPTION:
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Game8
@@ -129,6 +141,7 @@ DURATION:P1H30M
 SUMMARY:SVL • UTS v UTS
 LOCATION:Genea Netball Centre
 DESCRIPTION:
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Duty8
@@ -138,6 +151,7 @@ DURATION:P1H30M
 SUMMARY:SVL • Duty
 LOCATION:Genea Netball Centre
 DESCRIPTION:Duty for HC v CITY
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Game9
@@ -147,6 +161,7 @@ DURATION:P1H30M
 SUMMARY:SVL • UTS v USYD L
 LOCATION:Genea Netball Centre
 DESCRIPTION:
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Duty9
@@ -156,6 +171,7 @@ DURATION:P1H30M
 SUMMARY:SVL • Duty
 LOCATION:Genea Netball Centre
 DESCRIPTION:Duty for Div 1 UTS B v UNSW
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Game10
@@ -165,6 +181,7 @@ DURATION:P1H30M
 SUMMARY:SVL • UTS v USYD B
 LOCATION:Northern Beaches Indoor Sports Centre
 DESCRIPTION:
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 BEGIN:VEVENT
 UID:Game11
@@ -174,5 +191,6 @@ DURATION:P1H30M
 SUMMARY:SVL • UTS v END
 LOCATION:Genea Netball Centre
 DESCRIPTION:
+ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d
 END:VEVENT
 END:VCALENDAR

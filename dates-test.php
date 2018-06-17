@@ -175,6 +175,7 @@ foreach ($games as $game) {
     echo "SUMMARY:" . $game['summary'] . "<br>";
     echo "LOCATION:" . $game['location'] . "<br>";
     echo "DESCRIPTION:" . $game['description'] . "<br>";
+    echo "ATTACH:https://drive.google.com/uc?export=view&id=1-fLtMe8FiOoxtJstUQ3n_AL4r5m2ur-d<br>";
     echo "END:VEVENT<br>";
 };
 
