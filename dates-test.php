@@ -7,14 +7,16 @@ $games = array(
       'summary' => 'SVL • UTS v ASIMS',
       'start' => '2018-05-27 13:45:00',
       //'end' => '2018-05-27 15:15:00',
-      'description' => 'UTS defeated ASIMS 3-0'
+      'description' => 'UTS defeated ASIMS 3-0',
+      'location' => 'Genea Netball Centre'
     ),
     array(
       'uid' => 'Duty1',
       'summary' => 'SVL • Duty',
       'start' => '2018-05-27 15:15:00',
       //'end' => '2018-05-27 17:00:00',
-      'description' => 'Duty for HC v USYD L'
+      'description' => 'Duty for HC v USYD L',
+      'location' => 'Genea Netball Centre'
     ),
     // Week 2 - Game
     array(
@@ -22,7 +24,8 @@ $games = array(
       'summary' => 'SVL • UTS v ILLA',
       'start' => '2018-06-03 10:20:00',
       //'end' => '2018-06-03 12:00:00',
-      'description' => 'UTS defeated ILLA 3-0'
+      'description' => 'UTS defeated ILLA 3-0',
+      'location' => 'Genea Netball Centre'
     ),
     // Week 3 - Game + Duty
     array(
@@ -30,14 +33,16 @@ $games = array(
       'summary' => 'SVL • UTS v CITY',
       'start' => '2018-06-10 13:45:00',
       //'end' => '2018-06-10 15:30:00',
-      'description' => 'CITY defeated UTS 3-2'
+      'description' => 'CITY defeated UTS 3-2',
+      'location' => 'Genea Netball Centre'
     ),
     array(
       'uid' => 'Duty3',
       'summary' => 'SVL • Duty',
       'start' => '2018-06-10 12:00:00',
       //'end' => '2018-06-10 13:45:00',
-      'description' => 'Duty for Div 1 HC O v VOS'
+      'description' => 'Duty for Div 1 HC O v VOS',
+      'location' => 'Genea Netball Centre'
     ),
     // Week 4 - Game + Duty
     array(
@@ -45,14 +50,16 @@ $games = array(
       'summary' => 'SVL • UTS v SNV',
       'start' => '2018-06-17 13:45:00',
       //'end' => '2018-06-17 15:30:00',
-      'description' => 'UTS defeated SNV 3-2'
+      'description' => 'UTS defeated SNV 3-2',
+      'location' => 'Genea Netball Centre'
     ),
     array(
       'uid' => 'Duty4',
       'summary' => 'SVL • Duty',
       'start' => '2018-06-17 12:00:00',
       //'end' => '2018-06-17 13:45:00',
-      'description' => 'Duty for Div 1 UTS B v EAGLES'
+      'description' => 'Duty for Div 1 UTS B v EAGLES',
+      'location' => 'Genea Netball Centre'
     ),
     // Bye
     array(
@@ -68,67 +75,77 @@ $games = array(
       'summary' => 'SVL • UTS v EAGLES',
       'start' => '2018-07-01 08:50:00',
       //'end' => '2018-07-01 10:20:00',
-      'description' => ''
+      'description' => '',
+      'location' => 'Genea Netball Centre'
     ),
     // Week 6 - Game + Duty
     array(
       'uid' => 'Game6',
       'summary' => 'SVL • UTS v HC',
       'start' => '2018-07-08 12:00:00',
-      'description' => ''
+      'description' => '',
+      'location' => 'Genea Netball Centre'
     ),
     array(
       'uid' => 'Duty6',
       'summary' => 'SVL • Duty',
       'start' => '2018-07-08 13:45:00',
-      'description' => 'Duty for USYD B v SNV'
+      'description' => 'Duty for USYD B v SNV',
+      'location' => 'Genea Netball Centre'
     ),
     // Week 7 - Bye
     array(
       'uid' => 'Bye7',
       'summary' => 'SVL • Bye',
       'start' => '2018-07-15 08:50:00',
-      'description' => ''
+      'description' => '',
+      'location' => 'Genea Netball Centre'
     ),
     // Week 8 - Game + Duty
     array(
       'uid' => 'Game8',
       'summary' => 'SVL • UTS v UTS',
       'start' => '2018-07-22 12:00:00',
-      'description' => ''
+      'description' => '',
+      'location' => 'Genea Netball Centre'
     ),
     array(
       'uid' => 'Duty8',
       'summary' => 'SVL • Duty',
       'start' => '2018-07-22 12:00:00',
-      'description' => 'Duty for HC v CITY'
+      'description' => 'Duty for HC v CITY',
+      'location' => 'Genea Netball Centre'
     ),
     // Week 9 - Game + Duty
     array(
       'uid' => 'Game9',
       'summary' => 'SVL • UTS v USYD L',
       'start' => '2018-07-29 13:45:00',
-      'description' => ''
+      'description' => '',
+      'location' => 'Genea Netball Centre'
     ),
     array(
       'uid' => 'Duty9',
       'summary' => 'SVL • Duty',
       'start' => '2018-07-29 12:00:00',
-      'description' => 'Duty for Div 1 UTS B v UNSW'
+      'description' => 'Duty for Div 1 UTS B v UNSW',
+      'location' => 'Genea Netball Centre'
     ),
     // Week 10 - Game
     array(
       'uid' => 'Game10',
       'summary' => 'SVL • UTS v USYD B',
       'start' => '2018-08-05 12:00:00',
-      'description' => ''
+      'description' => '',
+      'location' => 'Northern Beaches Indoor Sports Centre'
     ),
     // Week 11 - Game
     array(
       'uid' => 'Game11',
       'summary' => 'SVL • UTS v END',
       'start' => '2018-08-12 12:00:00',
-      'description' => ''
+      'description' => '',
+      'location' => 'Genea Netball Centre'
     ),
 );
 
@@ -156,6 +173,7 @@ foreach ($games as $game) {
     //echo "DTEND:" . date('Ymd\THis', strtotime($game['end'])) . "<br>";
     echo "DURATION:" . "P1H30M<br>";
     echo "SUMMARY:" . $game['summary'] . "<br>";
+    echo "LOCATION:" . $game['location'] . "<br>";
     echo "DESCRIPTION:" . $game['description'] . "<br>";
     echo "END:VEVENT<br>";
 };
