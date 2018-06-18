@@ -112,7 +112,7 @@ $games = array(
     array(
       'uid' => 'Duty8',
       'summary' => 'SVL • Duty',
-      'start' => '2018-07-22 12:00:00',
+      'start' => '2018-07-22 13:45:00',
       'description' => 'Duty for HC v CITY',
       'location' => 'Genea Netball Centre'
     ),
