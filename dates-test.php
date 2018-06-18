@@ -67,7 +67,8 @@ $games = array(
       'summary' => 'SVL • Bye',
       'start' => '2018-06-24 08:50:00',
       //'end' => '2018-06-24 15:30:00',
-      'description' => ''
+      'description' => '',
+      'location' => ''
     ),
     // Week 5 - Game
     array(
