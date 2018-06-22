@@ -172,7 +172,7 @@ foreach ($games as $game) {
     echo "DTSTAMP:" . date('Ymd\THis', strtotime(date('Y-m-d'))) . "<br>";
     echo "DTSTART:" . date('Ymd\THis', strtotime($game['start'])) . "<br>";
     //echo "DTEND:" . date('Ymd\THis', strtotime($game['end'])) . "<br>";
-    echo "DURATION:" . "P1H30M<br>";
+    echo "DURATION:" . "PT1H30M0S<br>";
     echo "SUMMARY:" . $game['summary'] . "<br>";
     echo "LOCATION:" . $game['location'] . "<br>";
     echo "DESCRIPTION:" . $game['description'] . "<br>";
